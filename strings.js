@@ -1,0 +1,1 @@
+loadTimeData.data = {"appLocale":"en-US","colorThemes":true,"flagsMenu":false,"fontfamily":"Roboto, sans-serif","fontsize":"75%","isDevChannel":false,"language":"en","pdfReadonly":false,"photosAvailableForImage":false,"photosAvailableForVideo":false,"textdirection":"ltr"};
